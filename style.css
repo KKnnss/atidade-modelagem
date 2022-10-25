@@ -17,7 +17,7 @@ background: linear-gradient(90deg, rgba(13,24,140,1) 30%, rgba(188,0,255,1) 62%)
 div{
     display:block;
     text-align: center;
-    margin-top: 17rem;
+    margin-top: 16rem;
     
 } 
 
@@ -55,7 +55,14 @@ border: 0;
 }
 
 .botao{
-align-items: center;
+    width: 210px;
+    text-align: center;
+    padding: 15px 20px;
+    border: 1px solid #000000;
+    border-radius: 6px;
+    
+    
+    font-size: 18px;
 
 }
 
